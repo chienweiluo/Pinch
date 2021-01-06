@@ -1,2 +1,2 @@
 # Pinch
-A Component with pinch
+A Workspace Component with pinch.
